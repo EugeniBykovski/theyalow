@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 19" width="25" height="19">
+	<defs>
+		<image width="25" height="19" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAATCAYAAABlcqYFAAAA/UlEQVRIS73V0RGCMAwG4LRyvuoIbKAj6Aa6ic7iIPjqFrCBg3CtCaW21KaAVHnicly/S+jfCvjDI6zxuMkaQOzymrpZt+rQIQSoVp1kIe/5IN0okBcJuuqRlQbQBJ3zQA7AHrYeQj3lgIYArRogS6FPgEG+heJAApkL8cAIMhVKAxOQMWgcmIo0lCH6eLi9DdDVQWO+YMMFObK7/E9xIRPSiqouR/jeBw23/RPfrykogfiA2Bva5AiKoqQkU9De9QTEIDHAdqjpjCsd4OpcR7EweiOyHXDTDuvYaaSj8FhZAPAd+QdkBiAOhUc9/sy5I+JG6Ub360urxkvr+AIMiO2Ru16ajAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="bnner+header">
+		<g id="main_nav">
+			<use id="Shape 7" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+		</g>
+	</g>
+</svg>

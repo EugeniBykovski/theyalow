@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 23" width="23" height="23">
+	<defs>
+		<image width="23" height="23" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAADgKtSgAAABoklEQVRIS7XVP08UQRjH8e/znLGgpoCCitYWEiisLqwXaeQFaEFiwd02GNACcoKSWBg13F4IxGhBRwgFBLh9AbwCLbExoeBPQo/ePIQDFu482N27c4opJk8+eeY3MxnhPw5p1a4sMqiqrwweA91m8vKJX/1+22sJDwOdAj4AWsOEt17ezTU2mhrfLWfG1Gy9Rl5MZtsjvo02SyA1Hga6D/TfYDLuFarf2sbDJR5R1R91kDDp5d3nRjwMMi9SdR6WMjnEdhqgX3/UDYxOcHq9XinpvAhv0uFlhjHdaxLBAVDG5Ehwz0zkKXCYDg/0HTCT5PoKrCXGr7Y6mwQGnDk3lAhPCRvGtOe7j7F4SnjfibzO5asbl2/rnhEHGxRV3KbjQU/G/T3IFvgpgl2Td+JxMDDrFdz7+5priofxtyIWbhpLp+B/8E7CdXin4QgPS+ojLN55OMaM57uFhA8oKqsdaBjob6BPYNXEejHJRhUtwlHnlUCP5eKrgqIY/QjPa3gb8E0sZf2KMV637TbhCN9apuvhmX5BGANOMD55vltJm3Fj/TmEyJvAzs7G5QAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="menu">
+		<use id="Shape 6" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+	</g>
+</svg>

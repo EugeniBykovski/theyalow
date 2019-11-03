@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 285 43" width="285" height="43">
+	<defs>
+		<image width="285" height="43" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAR0AAAArCAYAAABFPlx/AAADg0lEQVR4Xu3du2sUURiGcScEL5VgYaNYeEFJIwiihWIjKhJR8dIFCxVFBAvBYLQRNEWChYhYaGmXeMEg+k+INgpCGsEUdhZWkRCfE7KyRM3Oyc4cNnuewEcumznf+X4bXia72UyxwjcFFFAgoUDRTq/Z2dlejj9GnaD2URuoVe2s6bEKKLBsBX6y82/UB+pVqKIophdOs+TQIXCOsNh9qm/ZErlxBRSoU2CSxQcJnhfNTaJDh7AJx9ym7lDRx9c5oWsroEBHCoywqyHCZybsLjo0CJ0hjrvXkaO5KQUU6FSBEUJnMDp0CJxDHPRuKWHVqRLuSwEFkgmcIXjGS5/pEDg9bO0TtSPZFm2kgALdJDDFMJtjQqefAya6ScBZFFAgucBATOg8YXsXkm/Rhgoo0E0Cz2NC5yOT7+ym6Z1FAQWSC3yNCZ3vbG998i3aUAEFuklgOiZ0fjD52m6a3lkUUCC9gKGT3tyOCmQtYOhkffc7vALpBQyd9OZ2VCBrAUMn67vf4RVIL2DopDe3owJZCxg6Wd/9Dq9AegFDJ725HRXIWsDQyfrud3gF0gsYOunN7ahA1gKlQod/a7ENpS9Uqe/PWtThFVBgUYFSIULoPGSVq1oqoIAC7Qq0DB0CZ9P8Wc7qdpt5vAIKKFAmdMKlJI5LpYACClQhsGjocJZzmSaPq2jkGgoooEAQ+G/oEDgHuf0NtVIqBRRQoCqBv0Jn/rpWF2nwgPJxnKqkXUcBBeYE/oQOYbOOzw9QN6i9+iiggAJ1CMyFDoHznne76mjgmgoooECzQCN09vDFZ9RWeRRQQIE6BZp/vVpDo0vUdWpjnU1dWwEF8hX41wPJ4dmqc1S47vCWfGmcXAEF6hBY7CnzXhqepq5Q++to7poKKJCdQLlL0PBAcx80rz3zye4HxIEVqFog6mJ7T+l+vuoduJ4CCmQlEHVZ4X5oJrLicVgFFKhaYKDlCz4bHfkVq4ePP1Pbq96F6ymgQBYCU+EhmtKhE0gInsO8e0tFHZcFp0MqoEArgbNFUYxFhwfBc4uV77Za3dsVUECBJoFRAie8xCr+jGX+BaHDHBv+jic6tLwbFFAgO4FHTHyN0JlZUug0uAifo3w8SoWn031TQAEFFgpM8oWbhM148w1tnakQPOEPCE9Sp6jdVHj5hP9/xx8+BfIU+MXY4cHi8ALyl9QYgTO9kOI3KQXFhVfXQt8AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="twitter">
+		<g id="tweet_bubble">
+			<use id="Rounded Rectangle 2" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+		</g>
+	</g>
+</svg>

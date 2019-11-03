@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 22" width="29" height="22">
+	<defs>
+		<image width="29" height="22" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAWCAYAAAA8VJfMAAABfElEQVRIS8XWv07DMBAG8O/uWomBl2BjhDeAkZEJJCYYYAPBzMgT0IkRBlQYEAwItUVi64QELwIrEvRslLaJ4tSJDSQia/78/J3tcwj/cFFiPp+h/fYlPVisNjyGB7W6Pkb7HXli0r2R5S6BlhuBCUOBbquV8zHa64i1sC8tMpuNwBnYugPsYoYmeAKzMRuW+RqgpVoSF8Dkmw5aO+wBvWhtcAlYiv4ZJgzNSHdYWrfJHBanaaa8+Qd+NccVCdNvV6L5xIb5KridIsDK8voSV8KRYDQ6HcCFkB6NLA9mEhOGanRNSLoA1kJbLVhed1HJMRk9cRJPExorh8R6aozcA1iogoNouphSyOlcRB+T1jbpNAAGzHoQgqNWb3Eu04GwgHJgGi4Il6LhXmxfAZ7z7cNQYi8aBkNLZXy/NLG399Z42njhmVOmRjAtxyOz7ucXl3OeJsdaVOeJqq7zkANnfw4wutsQWEjMl9k/0vun9C2w8vMQ8W8QcNOe161vcU5BPDUqwcIAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="menu">
+		<use id="Shape 7" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+	</g>
+</svg>

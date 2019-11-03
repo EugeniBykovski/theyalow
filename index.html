@@ -3,185 +3,171 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="author" content="">
-    <meta name="robots" content="index, follow">
-    <meta http-equiv="pragma" content="no-cache">
-    <meta name="keywords" content="">
-    <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Theyalow Page</title>
+</head>
 
-    <title>Theyalow</title>
-
-    <link href="https://fonts.googleapis.com/css?family=Asap|Open+Sans|PT+Sans|PT+Sans+Narrow:400,700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="./index.css">
-
-    <link rel="shortcut icon" href="#" type="image/x-icon">
-
-    <div class="wrapper">
-        <header class="header">
-            <div class="container">
-                <div class="first-container-header">
-                    <div class="logo-block">
-                        <div class="logo">
-                            <img src="./img/logo-big-one.svg" alt="picture_logo_one_big_opacity" class="logo-one-big">
-                            <img src="./img/logo-big-two.svg" alt="picture_logo_one_big_opacity" class="logo-one-big-opacity">
+<body class="all_page">
+    <main>
+        <article class="banner_header">
+            <div class="wrapper">
+                <header>
+                    <a class="header-logo-wrapper" href="#" title="home">
+                        <div class="logotype">
+                            <img class="header-logo-img" src="./assets/image/logo.svg" alt="logo" title="logo">
+                            <h1 class="logo-txt">THEYALOW</h1>
                         </div>
-
-                        <div class="text-header-logo">
-                            <h2>THEYALOW</h2>
-                        </div>
-                    </div>
-
-                    <nav class="navbar-header">
+                    </a>
+                    <nav class="navbar_header">
                         <ul>
-                            <li>
-                                <a href="#"><img src="./img/ico-about.svg" width="#" height="#" alt="icon_about">ABOUT US</a>
+                            <li class="nav-item active">
+                                <a class="item about" href="#" title="about us">
+                                    <img src="./assets/image/icons/nav-icons/about-us.svg" alt="about us">ABOUT US
+                                </a>
                             </li>
-                            <li>
-                                <a href="#"><img src="./img/ico-services.svg" width="#" height="#" alt="icon_services">SERVICES</a>
+                            <li class="nav-item active">
+                                <a class="item services" href="#" title="services">
+                                    <img src="./assets/image/icons/nav-icons/services.svg" alt="services">SERVICES
+                                </a>
                             </li>
-                            <li>
-                                <a href="#"><img src="./img/ico-contact.svg" width="#" height="#" alt="icon_contact">CONTACT</a>
+                            <li class="nav-item active">
+                                <a class="item contact" href="#" title="contact">
+                                    <img src="./assets/image/icons/nav-icons/contact.svg" alt="contact">CONTACT
+                                </a>
                             </li>
                         </ul>
                     </nav>
-                </div>
-
-                <div class="second-container-header">
-                    <div class="control-left">
-                        <img src="./img/control-left.svg" alt="icon_control_left" width="#" height="#" class="icon-control-left">
+                </header>
+                <section class="slider_one">
+                    <div class="video-container">
+                        <video class="video-container-inner" src="#" poster="assets/image/placeholders/poster1.png" controls></video>
                     </div>
+                    <div class="banner-container">
+                        <p class="banner-container-text">THE COOL</p>
+                        <p class="banner-container-text white-banner-container-text">THE MINIMAL</p>
+                    </div>
+                </section>
+            </div>
+            <button class="btn-left active"></button>
+            <button class="btn-right active"></button>
+        </article>
 
-                    <div class="video-controls">
-                        <div class="video-container">
-                            <div class="controls">
-                                <video class="video-1" src="assets/test.mp4" poster="./img/picture-birds.png" width="549" height="327"></video>
+
+
+        <article class="icon-container">
+            <div class="wrapper container">
+                <a href="#" class="icon active">
+                    <img class="bd-img" src="./assets/image/icons/icon-area/better-design-icon.svg" alt="better design icon">
+                    <p class="bd-txt">BETTER DESIGN</p>
+                </a>
+                <a href="#" class="icon active">
+                    <img class="custom-img" src="./assets/image/icons/icon-area/customise-icon.svg" alt="customize icon">
+                    <p class="custom-txt">CUSTOMISE</p>
+                </a>
+                <a href="#" class="icon active">
+                    <img class="free-img" src="./assets/image/icons/icon-area/its-free-icon.svg" alt="its free icon">
+                    <p class="free-txt">ITS FREE</p>
+                </a>
+            </div>
+        </article>
+
+
+        <article class="slider_two">
+            <div class="wrapper slider_two-section-wrap">
+                <h2 class="header2 slider_two-header">LOREM IPSUM DOLOR SIT AMET</h2>
+                <div class="slider_two-wrap">
+                    <section class="slider_two-item1">
+                        <section class="description">
+                            <p>Lorem ipsum dolor sit amet, consecte-tur adipisicing elit, sed do eiusmod tempor incididunt ut</p>
+                            <div class="add">
+                                <img class="add-img" src="./assets/image/icons/plus-icon.svg" alt="">
                             </div>
+                        </section>
+                        <div class="slider_two-video">
+                            <video src="#" poster="./assets/image/placeholders/poster2.png" controls></video>
+                        </div>
+                        <section class="slider_two-date">
+                            <div class="date">
+                                <p class="number">25</p>
+                                <p class="month">APRIL</p>
+                            </div>
+                        </section>
+                    </section>
+                    <section class="slider_two-item2">
+                        <p>22</p>
+                        <img class="tweeter-img" src="./assets/image/twitter-img.png" alt="">
+                        <div class="add">
+                            <img class="add-img" src="./assets/image/icons/plus-icon.svg" alt="">
+                        </div>
+                    </section>
+                </div>
+
+
+                <section class="tweeter-chart">
+                    <img class="tweeter-img" src="./assets/image/twitter-img.png" alt="tweeter img">
+                    <div class="messages">
+                        <div class="messages-item">
+                            <p class="messages-post">Daily Mobile UI Design Inspiration #1 via @cssauthor</p>
+                        </div>
+                        <div class="messages-item">
+                            <p class="messages-post">Daily Mobile UI Design Inspiration #1 via @cssauthor</p>
+                        </div>
+                        <div class="messages-item">
+                            <p class="messages-post">Daily Mobile UI Design Inspiration #1 via @cssauthor</p>
+                        </div>
+                        <div class="send">
+                            <label for="message"></label>
+                            <input type="text" name="message" id="message">
+                            <button class="btn-tweet active">Tweet</button>
                         </div>
                     </div>
-
-                    <div class="text-cool">
-                        <h1><span class="header-cool-text">THE COOL</span> <br> THE MINIMAL</h1>
-                    </div>
-
-                    <div class="control-right">
-                        <img src="./img/control-right.svg" alt="icon_control_right" width="#" height="#" class="icon-control-right">
-                    </div>
-                </div>
+                </section>
+                <section class="range-wrap">
+                    <input class="range" type="range">
+                </section>
             </div>
-        </header>
+        </article>
 
-        <main class="main">
-            <section class="services">
-                <div class="container-services">
-                    <ul>
-                        <li>
-                            <img src="./img/ico-better.svg" alt="icon_design" width="#" height="#" class="icon-design">
-                            <p>BETTER DESIGN</p>
-                        </li>
 
-                        <li>
-                            <img src="./img/ico-customise.svg" alt="icon_customise" width="#" height="#" class="icon-customise">
-                            <p>CUSTOMISE</p>
-                        </li>
-
-                        <li>
-                            <img src="./img/ico-free.svg" alt="icon_free" width="#" height="#" class="icon-free">
-                            <p>ITS FREE</p>
-                        </li>
-                    </ul>
-                </div>
-            </section>
-
-            <section class="news">
-                <div class="container">
-                    <div class="news-title">
-                        <h3>LOREM IPSUM DOLOR SIT AMET</h3>
-                    </div>
-
-                    <div class="all-news">
-                        <div class="first-news">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor inicididunt ut</p>
+        <article class="last-container">
+            <div class="wrapper last-cont">
+                <h2 class="header2 last-cont-header">LOREM IPSUM DOLOR SIT AMET</h2>
+                <section class="info">
+                    <section class="device">
+                        <div class="device-wrap">
+                            <img class="pc-img" src="./assets/image/pc-img.png" alt="pc image">
+                            <img class="tablet-img" src="./assets/image/tablet-img.png" alt="tablet image">
+                            <img class="phone-img" src="./assets/image/phone-img.png" alt="phone image">
                         </div>
-
-                        <div class="sec-news">
-                            <img src="./img/picture-people.png" alt="" width="#" height="#" class="people">
+                        <div class="free">
+                            <p>ITS 100% FREE</p>
                         </div>
-                    </div>
-
-                    <div class="third-news">
-                        <div class="twitter">
-                            <img src="./img/twitter.svg" alt="icon_twitter" width="#" height="#" class="icon-twitter">
-                        </div>
-                    </div>
-
-                    <div class="date-news">
-                        <p class="date">25 <br> APRIL</p>
-                    </div>
-
-                    <div class="scroll-control">
-                        <div class="scroll"></div>
-                    </div>
-                </div>
-            </section>
-
-
-            <section class="desctop-section">
-                <div class="container">
-                    <div class="desctop-section-title">
-                        LOREM IPSUM DOLOR SIT AMET
-                    </div>
-
-                    <div class="desctop-section-round-free">
-                        <p>ITS 100% FREE</p>
-                    </div>
-
-                    <div class="desctop-picture">
+                    </section>
+                    <section class="last-container-lists">
                         <ul>
-                            <li><img src="./img/desctop.png" alt="picture-desctop" width="#" height="#" class="desctop"></li>
-                            <li><img src="./img/tablet.png" alt="picture-tablet" width="#" height="#" class="tablet"></li>
-                            <li><img src="./img/mobile.png" alt="picture-mobile" width="#" height="#" class="mobile"></li>
+                            <li>Sed ut perspiciatis unde omnis</li>
+                            <li>Lorem ipsum dolor sit amnet,con-sectetur adipisicing</li>
+                            <li>Sed ut perspiciatis unde omnis</li>
+                            <li>Lorem ipsum dolor sit amnet,con-sectetur adipisicing</li>
                         </ul>
-                    </div>
-
-                    <div class="comments_footer">
-                        <ul>
-                            <li>
-                                <img src="./img/ico-elipse.svg" alt="icon_dott" width="#" height="#"> Sed ut perspiciatis unde omnis
-                            </li>
-
-                            <li>
-                                <img src="./img/ico-elipse.svg" alt="icon_dott" width="#" height="#"> Lorem ipsum dolor sit amet, consectetur adipisicing
-                            </li>
-
-                            <li>
-                                <img src="./img/ico-elipse.svg" alt="icon_dott" width="#" height="#"> Sed ut perspiciatis unde omnis
-                            </li>
-
-                            <li>
-                                <img src="./img/ico-elipse.svg" alt="icon_dott" width="#" height="#"> Lorem ipsum dolor sit amet, consectetur adipisicing
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </section>
-        </main>
-
-        <footer class="footer">
-            <div class="footer-container">
-                <div class="footer-logo">
-                    <img src="./img/logo-small-one.svg" alt="icon_footer_logo" width="#" height="#" class="footer-logo">
-                    <img src="./img/logo-small-two.svg" alt="icon_footer_logo-opacity" class="footer-logo-opacity" width="#" height="#">
-                </div>
-
-                <div class="footer-text">
-                    <h3>THEYALOW</h3>
-                </div>
+                    </section>
+                </section>
             </div>
-        </footer>
-    </div>
-
-    </body>
+        </article>
+    </main>
+    <footer>
+        <div class="wrapper">
+            <div class="footer-container logo">
+                <a class="footer-logo-container" href="#" title="home">
+                    <img class="footer-logo-img" src="./assets/image/logo.svg" alt="logo" title="logo">
+                    <h2 class="footer-logo-txt logo-txt">THEYALOW</h2>
+                </a>
+            </div>
+        </div>
+    </footer>
+</body>
 
 </html>
